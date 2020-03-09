@@ -1,0 +1,21 @@
+body {
+    background-image:url("img/bg.jpg");
+    background-size:cover;
+    color:black;
+    
+}
+.card-header {
+    background-color:#e84393;
+    color:white;
+}
+.text-header {
+    color:white;    
+}
+.btn-bg {
+    background-color:#e84393; 
+    color:white;
+
+}
+.card {
+    box-shadow: 0 0 5px 5px #f1c40f;
+}
